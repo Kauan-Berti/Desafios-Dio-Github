@@ -57,3 +57,13 @@ Além de armazenar código, o GitHub permite:
 - Controlar projetos públicos ou privados.
 
 ---
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV1d24wZmx6ZXNneW41czFxNXN1Z3NjOXViNmd4aGJpbDFzdXIxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="100">
+
+### GitHub Copilot:
+O Copilot é uma inteligência artificial que aprende analisando códigos existentes e acelera o desenvolvimento.
+Ele atua como um assistente de programação, sugerindo automaticamente:
+- Blocos de código;
+- Funções completas;
+- Soluções para problemas comuns.
+
+---
