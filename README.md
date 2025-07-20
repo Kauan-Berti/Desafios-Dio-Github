@@ -13,3 +13,47 @@ Este repositório foi criado como parte dos desafios práticos do curso "Formaç
 ✅ Editar o arquivo README.md para praticar Markdown<br />
 
 <br />
+
+## 📌 O que é Git, GitHub e Copilot?
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100"/>  
+
+### Git:
+É um sistema de controle de versão distribuído, amplamente utilizado no desenvolvimento de software.
+Com ele, é possível acompanhar todo o histórico de mudanças do projeto, criar ramificações (branches) para desenvolver novas funcionalidades sem interferir no código principal, e colaborar com várias pessoas simultaneamente.
+<br />
+ 
+Principais comandos: 
+```
+git clone → copiar um repositório existente.
+```
+```
+git commit → salvar alterações localmente.
+```
+```
+git push → enviar alterações para o repositório remoto.
+```
+```
+git pull → baixar alterações do repositório remoto.
+```
+```
+git branch → criar ou listar branches.
+```
+```
+git merge → unir branches.
+```
+
+---
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100"/>
+
+### GitHub:
+É uma plataforma online que hospeda repositórios Git, funcionando como um espaço colaborativo para desenvolvedores.
+Além de armazenar código, o GitHub permite:
+- Criar e gerenciar issues (tarefas ou problemas);
+
+- Realizar pull requests (propostas de alteração);
+
+- Fazer revisões de código e discussões técnicas;
+
+- Controlar projetos públicos ou privados.
+
+---
