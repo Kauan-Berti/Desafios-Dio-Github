@@ -1,4 +1,4 @@
-# 📚 Desafios DIO - Certificação GitHub 🚀
+# 📚 Desafio DIO - Git & GitHub 🚀
 Este repositório foi criado como parte dos desafios práticos do curso "Formação GitHub Certification" da [Digital Innovation One (DIO)](https://www.dio.me/). O objetivo principal deste projeto é colocar em prática conceitos essenciais sobre Git, GitHub, trabalho colaborativo e edição de arquivos README.md utilizando padrões de Markdown.
 
 <br />
