@@ -43,7 +43,7 @@ git merge → unir branches.
 ```
 
 ---
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100"/>
+<img align="left" src="https://github.com/Kauan-Berti/Desafios-Dio-Github/blob/main/assets/images/logoGitHub.svg" width="100"/>
 
 ### GitHub:
 É uma plataforma online que hospeda repositórios Git, funcionando como um espaço colaborativo para desenvolvedores.
@@ -67,6 +67,8 @@ Ele atua como um assistente de programação, sugerindo automaticamente:
 - Soluções para problemas comuns.
 
 ---
+<img align="right" src="https://github.com/Kauan-Berti/Desafios-Dio-Github/blob/main/assets/images/image1.png" width="400" height="400px" >
+
 ### 📖 Documentação e Conteúdo:
 - [x] [Documentação Oficial do Git](https://git-scm.com/doc)
 - [x] [Documentação Oficial do GitHub](https://docs.github.com/pt)
