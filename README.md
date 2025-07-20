@@ -67,3 +67,14 @@ Ele atua como um assistente de programação, sugerindo automaticamente:
 - Soluções para problemas comuns.
 
 ---
+### 📖 Documentação e Conteúdo:
+- [x] [Documentação Oficial do Git](https://git-scm.com/doc)
+- [x] [Documentação Oficial do GitHub](https://docs.github.com/pt)
+- [x] [Github Copilot](https://github.com/features/copilot?locale=pt-BR)
+
+**🖼️ Imagens e Gifs:**
+- [x] [Ícone do Git](https://devicon.dev/)
+- [x] [Ícone do GitHub](https://devicon.dev/)
+- [x] [Gif do GitHub Copilot](https://giphy.com/stickers/GitHub-mascots-githubuniverse2024-githubuniverse2024copilot-Sh1iCtJZEdx4PFYy4q)
+- [x] [Meme Git Commit](https://pin.it/1Ndl1i1u4)
+  
