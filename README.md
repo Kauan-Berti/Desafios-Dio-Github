@@ -67,7 +67,7 @@ Ele atua como um assistente de programação, sugerindo automaticamente:
 - Soluções para problemas comuns.
 
 ---
-<img align="right" src="https://github.com/Kauan-Berti/Desafios-Dio-Github/blob/main/assets/images/image1.png" width="100px" height="100px" >
+<img align="right" src="https://github.com/Kauan-Berti/Desafios-Dio-Github/blob/main/assets/images/image1.png" width="400px" height="400px" >
 
 ### 📖 Documentação e Conteúdo:
 - [x] [Documentação Oficial do Git](https://git-scm.com/doc)
